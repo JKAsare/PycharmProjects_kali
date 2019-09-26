@@ -1,0 +1,1000 @@
+   22  cd /
+   23  ls
+   24  ls -l
+   25  clear
+   26  pwd
+   27  cd root
+   28  pwd
+   29  ls
+   30  clear
+   31  history
+   32  clear
+   33  exit
+   34  man ls
+   35  man cd
+   36  man
+   37  man clear
+   38  exit
+   39  ls
+   40  exit
+   41  pwd
+   42  cd Desktop/
+   43  ls
+   44  cd ..
+   45  ls
+   46  pwd
+   47  exit
+   48  apt-get update
+   49  apt-get install terminator
+   50  exit
+   51  ls
+   52  python hello.py
+   53  hello.py
+   54  python3 hello.py
+   55  exit
+   56  cd ..
+   57  ls
+   58  cd root
+   59  cd ..
+   60  ls
+   61  cd root
+   62  ls
+   63  cd PycharmProjects/
+   64  ls
+   65  cd hello
+   66  ls
+   67  python hello.py 
+   68  exit
+   69  cd /opt/pycharm-community-2019.2.1/bin
+   70  ls
+   71  ./pycharm.sh 
+   72  cd root
+   73  cd /
+   74  cd root
+   75  ls
+   76  cd PycharmProjects/
+   77  ls
+   78  cd MAC_changer/
+   79  ls
+   80  python mac_changer.py 
+   81  ls
+   82  ifconfig
+   83  python mac_changer.py 
+   84  ifconfig
+   85  python mac_changer.py 
+   86  ifconfig
+   87  exit
+   88  ifconfig
+   89  ifconfig eth0 down
+   90  ifconfig eth0 hw ether 00:11:22:33:44:55
+   91  ifconfig eth0 up
+   92  ifconfig
+   93  fconfig eth0 down
+   94  ifconfig eth0 down
+   95  ifconfig eth0 hw ether 08:00:27:89:03:db
+   96  ifconfig eth0 up
+   97  ifconfig
+   98  history
+   99  ls
+  100  cd root
+  101  cd opt/
+  102  ls -a
+  103  cd /
+  104  ls
+  105  cd bin
+  106  ls
+  107  cd ..
+  108  opt
+  109  cd opt/
+  110  ls
+  111  cd pycharm-community-2019.2.1/
+  112  ls
+  113  ls -l
+  114  cd bin
+  115  ls
+  116  ./pycharm.sh 
+  117  exit
+  118  ifconfig
+  119  clear
+  120  ifconfig
+  121  clear
+  122  ls
+  123  cd /
+  124  cd root
+  125  ls
+  126  cd PycharmProjects/
+  127  cd MAC_changer/
+  128  python mac_changer.py 
+  129  ifconfig
+  130  python mac_changer.py 
+  131  ifconfig
+  132  python mac_changer.py 
+  133  clear
+  134  ifconfig
+  135  python mac_changer.py 
+  136  ifconfig eth0
+  137  python mac_changer.py 
+  138  python3 mac_changer.py 
+  139  ifconfig eth0
+  140  python mac_changer.py 
+  141  ifconfig eth0
+  142  python mac_changer.py 
+  143  ifconfig eth0
+  144  python mac_changer.py 
+  145  ifconfig eth0
+  146  exit
+  147  ls
+  148  cd root
+  149  pwd
+  150  cd media
+  151  cd /
+  152  cd media
+  153  ls
+  154  cd root
+  155  ls
+  156  cd MySeagate2TB/
+  157  ls
+  158  ls -l
+  159  cd /
+  160  cd root
+  161  ls
+  162  clear
+  163  cd /
+  164  pwd
+  165  ls
+  166  bin
+  167  cd bin
+  168  ls
+  169  cd /
+  170  cd opt/
+  171  ls
+  172  cd pycharm-community-2019.2.1/
+  173  cd bin
+  174  ./pycharm.sh 
+  175  exit
+  176  ls
+  177  cd /
+  178  ls
+  179  cd opt/
+  180  ls
+  181  cd pycharm-community-2019.2.1/
+  182  cd bin
+  183  ./pycharm.sh 
+  184  cd /
+  185  cd root
+  186  cd PycharmProjects/
+  187  cd MAC_changer/
+  188  python mac_changer.py 
+  189  ifconfig
+  190  python mac_changer.py 
+  191  ifconfig eth0
+  192  python mac_changer.py 
+  193  ifconfig eth0
+  194  clear
+  195  python mac_changer.py --help
+  196  ifconfig eth0
+  197  clear
+  198  exit
+  199  ls
+  200  cd root
+  201  cd /
+  202  cd opt
+  203  ls
+  204  cd pycharm-community-2019.2.1/
+  205  cd bin
+  206  ./pycharm.sh 
+  207  exit
+  208  cd opt
+  209  cd /opt
+  210  cd root
+  211  cd ..
+  212  cd root
+  213  cd /opt/pycharm-community-2019.2.1/bin/
+  214  ./pycharm.sh 
+  215  cd /
+  216  cd root
+  217  ls
+  218  cd PycharmProjects/
+  219  ls
+  220  cd MAC_changer/
+  221  python mac_changer.py --help
+  222  ifconfig eth0
+  223  clear
+  224  python mac_changer.py --interface eth0 --mac 00:11:22:33:44:99
+  225  ifconfig eth0
+  226  python mac_changer.py --i eth0 --m 00:11:22:33:44:66
+  227  ifconfig eth0
+  228  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  229  clear
+  230  python mac_changer.py --i eth0 --m 11:22:33:44:55:66
+  231  python mac_changer.py --i eth0 --m 00:11:22:33:44:55
+  232  ifconfig eth0
+  233  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  234  ifconfig eth0
+  235  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  236  ifconfig 
+  237  clear
+  238  python mac_changer.py --i eth0 --m 00:11:22:33:44:88
+  239  ifconfig eth0
+  240  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  241  ifconfig eth0
+  242  clear
+  243  python mac_changer.py --i eth0 --m
+  244  python mac_changer.py --i eth0 
+  245  clear
+  246  python mac_changer.py --i eth0 
+  247  clear
+  248  python mac_changer.py --i eth0 
+  249  python mac_changer.py --i -m 00:11:22:33:44:99
+  250  python mac_changer.py -m 00:11:22:33:44:99
+  251  ifconfig eth0
+  252  python mac_changer.py --i eth0 -m 00:11:22:33:44:77
+  253  ifconfig eth0
+  254  clear
+  255  ifconfig eth0
+  256  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  257  ifconfig eth0
+  258  ls
+  259  cd /opt
+  260  cd pycharm-community-2019.2.1/
+  261  cd bin
+  262  ./pycharm.sh 
+  263  q
+  264  cd /opt/pycharm-community-2019.2.1/bin
+  265  ./pycharm.sh 
+  266  cd /
+  267  cd root
+  268  cd PycharmProjects/
+  269  cd MAC_changer/
+  270  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  271  ifconfig eth0
+  272  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  273  clear
+  274  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  275  clear
+  276  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  277  python mac_changer.py -i eth7 -m 00:11:22:33:44:66
+  278  clear
+  279  python mac_changer.py -i eth7 -m 00:11:22:33:44:66
+  280  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  281  ifconfig
+  282  python mac_changer.py -i lo -m 00:11:22:33:44:66
+  283  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  284  python mac_changer.py -i lo -m 00:11:22:33:44:66
+  285  clear
+  286  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  287  python mac_changer.py -i lo -m 00:11:22:33:44:66
+  288  python mac_changer.py -i eth0 -m 00:11:22:33:44:66
+  289  ifconfig eth0
+  290  python mac_changer.py --i eth0 --m 08:00:27:89:03:db
+  291  python mac_changer.py -i lo -m 00:11:22:33:44:66
+  292  clear
+  293  python mac_changer.py -i eth0 
+  294  python mac_changer.py -i -m 00:11:22:33:44:55
+  295  ifconfig eth0
+  296  clear
+  297  ifconfig eth0
+  298  netdiscover -r 10.0.2.1/24
+  299  clear
+  300  ifconfig 
+  301  netdiscover 10.0.2.1/24
+  302  netdiscover r 10.0.2.1/24
+  303  netdiscover -r 10.0.2.1/24
+  304  ifconfig
+  305  clear
+  306  ifconfig eht0
+  307  ifconfig eth0
+  308  cd /opt/pycharm-community-2019.2.1/bin
+  309  ./pycharm.sh 
+  310  cd /
+  311  cd ~
+  312  cd PycharmProjects/
+  313  ls
+  314  cd MAC_changer/
+  315  ls
+  316  python mac_changer.py -i eth0 -m 00:11:22:33:44:88
+  317  python mac_changer.py -i eth0 -m 08:00:27:89:03:db
+  318  ifconfig eth0
+  319  cd ~
+  320  netdiscover -r 
+  321  ifconfig
+  322  netdiscover -r 10.0.2.1/24
+  323  ifconfig
+  324  netdiscover -r 10.0.2.1/24
+  325  ifconfig 
+  326  route -n
+  327  cd PycharmProjects/network_scanner/
+  328  python network_scanner.py 
+  329  route -n
+  330  python network_scanner.py 
+  331  clear
+  332  python network_scanner.py 
+  333  clear
+  334  python network_scanner.py 
+  335  cd /opt/pycharm-community-2019.2.1/
+  336  cd bin
+  337  ./pycharm.sh 
+  338  cd ~
+  339  cd PycharmProjects/
+  340  cd network_scanner/
+  341  ls -l
+  342  python network_scanner.py 
+  343  clear
+  344  route n
+  345  clear
+  346  route -n
+  347  python network_scanner.py 
+  348  clear
+  349  ifconfig eth0
+  350  python network_scanner.py 
+  351  clear
+  352  route -n
+  353  python network_scanner.py 
+  354  clear
+  355  python network_scanner.py 
+  356  ifconfig eth0
+  357  clear
+  358  python network_scanner.py 
+  359  clear
+  360  netdiscover -r 10.0.2.1/24
+  361  clear
+  362  python network_scanner.py 
+  363  clear
+  364  python network_scanner.py 
+  365  clear
+  366  route -n
+  367  python
+  368  python network_scanner.py 
+  369  clear
+  370  python network_scanner.py 
+  371  clear
+  372  python network_scanner.py 
+  373  clear
+  374  python network_scanner.py 
+  375  clear
+  376  python network_scanner.py 
+  377  clear
+  378  python network_scanner.py 
+  379  clear
+  380  python network_scanner.py 
+  381  clear
+  382  python network_scanner.py 
+  383  route -n
+  384  clear
+  385  python network_scanner.py 
+  386  python
+  387  clear
+  388  python
+  389  clear
+  390  cd /opt/pycharm-community-2019.2.1/bin
+  391  ./pycharm.sh 
+  392  netdiscover 
+  393  netdiscover -r 192.168.0.1/24
+  394  ifconfig eth
+  395  netdiscover -r 10.0.2.15/24
+  396  ifconfig
+  397  gcc
+  398  apt-get install gcc
+  399  ls
+  400  cd Downloads/
+  401  clear
+  402  ls
+  403  cd TL-WN823N\(EU\)_V3_160315_Linux/
+  404  ls
+  405  cd Driver/
+  406  ls
+  407  nano Makefile 
+  408  ls
+  409  sudo make Makefile
+  410  exit
+  411  ifconfig
+  412  netdiscover 
+  413  netdiscover -r 192.168.0.1/16
+  414  ifconfig
+  415  netdiscovery 
+  416  netdiscover
+  417  ifconfig
+  418  airmong-ng start wlan0
+  419  airmon-ng start wlan0
+  420  ifconfig
+  421  ls
+  422  clear
+  423  cd Downloads/
+  424  ls
+  425  cd TL-WN823N\(EU\)_V3_160315_Linux/
+  426  ls
+  427  cd Driver
+  428  ls
+  429  make clean
+  430  make
+  431  ls
+  432  nano Makefile 
+  433  sudo make
+  434  sudo make install
+  435  sudo install -p -m 644 8192eu.ko  /lib/modules/4.19.0-kali4-amd64/kernel/drivers/net/wireless/
+  436  clear
+  437  nano Makefile 
+  438  sudo make
+  439  clear
+  440  cd ~
+  441  ls
+  442  cd Downloads/
+  443  ls
+  444  cd TL-WN823N\(EU\)_V3_160315_Linux/
+  445  ls
+  446  cd Driver/
+  447  cd bin
+  448  ls
+  449  sudo make
+  450  cd ..
+  451  sudo make
+  452  cd ~
+  453  clear
+  454  cd Desktop/
+  455  mkdir JJJ
+  456  git init JKKK
+  457  ls
+  458  cd ~
+  459  sudo apt-get install git linux-headers-generic build-essential dkms
+  460  git clone https://github.com/Mange/rtl8192eu-linux-drive
+  461  clear
+  462  ifconfig
+  463  cd ~
+  464  cd PycharmProjects/
+  465  cd network_scanner/
+  466  python network_scanner.py 
+  467  clean
+  468  clear
+  469  python network_scanner.py 
+  470  clear
+  471  python network_scanner.py 
+  472  clear
+  473  python network_scanner.py 
+  474  python network_scanner.py -t 10.0.2.1/24
+  475  clear
+  476  pip3 install scapy-python3
+  477  python3 network_scanner.py -t 10.0.2.1/24
+  478  cleaer
+  479  clear
+  480  python3 network_scanner.py -t 10.0.2.1/24
+  481  pip3 install scapy-python3
+  482  python3 network_scanner.py -t 10.0.2.1/24
+  483  clear
+  484  python3 network_scanner.py -t 10.0.2.1/24
+  485  python network_scanner.py -t 10.0.2.1/24
+  486  clear
+  487  exit
+  488  cd /opt/pycharm-community-2019.2.1/bin
+  489  ./pycharm.sh 
+  490  ifconfig
+  491  exit
+  492  cd ~
+  493  cd PycharmProjects/
+  494  ls
+  495  ifconfig
+  496  cd network_scanner/
+  497  python network_scanner.py --target 10.0.2.1/24
+  498  ifconfig
+  499  route -n
+  500  cd /opt/pycharm-community-2019.2.1/bin
+  501  ./pycharm.sh 
+  502  cd ~
+  503  cd PycharmProjects/
+  504  cd network_scanner/
+  505  python network_scanner.py -t 10.0.2.1/24
+  506  route -n
+  507  clear
+  508  ping 10.0.2.10
+  509  echo 1 > /proc/sys/net/ipv4/ip_forward
+  510  ifconfig eth0
+  511  route -n
+  512  cd /opt/pycharm-community-2019.2.1/bin
+  513  ./pycharm.sh 
+  514  cd ~
+  515  cd PycharmProjects/network_scanner/
+  516  python
+  517  python network_scanner.py -t 10.0.2.1/24
+  518  cd ..
+  519  cd arp_spoof/
+  520  python arp_spoof.py 
+  521  clear
+  522  python arp_spoof.py 
+  523  ifconfig eth0
+  524  clear
+  525  python arp_spoof.py 
+  526  arp -a
+  527  python arp_spoof.py 
+  528  clear
+  529  ptyhon
+  530  python
+  531  clear
+  532  python arp_spoof.py 
+  533  ping 10.0.2.10
+  534  clear
+  535  python arp_spoof.py 
+  536  clear
+  537  python arp_spoof.py 
+  538  clear
+  539  python arp_spoof.py 
+  540  clear
+  541  python arp_spoof.py 
+  542  python3 arp_spoof.py 
+  543  clear
+  544  python3 arp_spoof.py 
+  545  pip3 install scapy
+  546  python3 arp_spoof.py 
+  547  clear
+  548  python3 arp_spoof.py 
+  549  python arp_spoof.py 
+  550  python3 arp_spoof.py 
+  551  clear
+  552  python arp_spoof.py 
+  553  python3 arp_spoof.py 
+  554  python arp_spoof.py 
+  555  clear
+  556  python arp_spoof.py 
+  557  arp -a
+  558  clear
+  559  exit
+  560  cd ~
+  561  cd PycharmProjects/MAC_changer/
+  562  cd PycharmProjects/mac_changer/
+  563  python mac_changer.py 
+  564  python mac_changer.py -i 00:11:22:33:44:55
+  565  python mac_changer.py -i eth0 -m 00:11:22:33:44:55
+  566  ifconfig eth0
+  567  python mac_changer.py -i eth0 -m 08:00:27:89:03:db
+  568  arp -a
+  569  exit
+  570  cd~
+  571  cd ~
+  572  clear
+  573  cd PycharmProjects/arp_spoof/
+  574  python arp_spoof.py 
+  575  ifconfig
+  576  arp -a
+  577  clear
+  578  netdiscover -r 10.0.2.1/24
+  579  ifconfig
+  580  clear
+  581  cd /opt/pycharm-community-2019.2.1/bin
+  582  ./pycharm.sh 
+  583  ls
+  584  cd PycharmProjects/
+  585  ls
+  586  cd ~
+  587  ls
+  588  git init GITTRY
+  589  ls
+  590  git config
+  591  git config --global
+  592  git config --list
+  593  cd GITTRY/
+  594  git config --list
+  595  cd ~
+  596  clear
+  597  git config --global user.name "Joseph Asare"
+  598  git config --global user.email "asare.joseph33@gmail.com"
+  599  git config --list
+  600  cd PycharmProjects/
+  601  ls
+  602  git init
+  603  git status
+  604  cd hello/
+  605  ls
+  606  cd ..
+  607  clear
+  608  git status
+  609  git add arp_spoof/
+  610  git add hello/
+  611  git add mac_changer/
+  612  git add network_scanner/
+  613  git status
+  614  git commit -m "Current files in PyCharmProjects before git was initiated"
+  615  git status
+  616  git log
+  617  nano README
+  618  git commit -a -m "README file added"
+  619  lls
+  620  ls
+  621  mv README README.txt
+  622  ls
+  623  git commit -a -m "README file added"
+  624  git add README.txt 
+  625  git log
+  626  git commit -m "README file added"
+  627  git log
+  628  clear
+  629  git remote add origin https://github.com/JKAsare/PycharmProjects_kali.git
+  630  git push -u orgin master
+  631  git push -u origin master
+  632  cd arp_spoof/
+  633  git status
+  634  cd ..
+  635  nano README.txt 
+  636  git commit -a -m "README file updated"
+  637  git push -u origin master
+  638  clear
+  639  exit
+  640  ifconfig
+  641  clear
+  642  cd /opt/pycharm-community-2019.2.1/bin
+  643  ./pycharm.sh 
+  644  cd ~
+  645  cd PycharmProjects/arp_spoof/
+  646  ifconfig
+  647  netdiscover -r 10.0.2.1/24
+  648  clear
+  649  netdiscover -r 10.0.2.1/24
+  650  arp -a
+  651  ping 10.0.2.10
+  652  clear
+  653  python arp_spoof.py 
+  654  history
+  655  clear
+  656  echo 1 > /proc/sys/net/ipv4/ip_forward
+  657  python arp_spoof.py 
+  658  ls
+  659  git status
+  660  git add
+  661  git add packet_sniffer/env/
+  662  ls
+  663  git add 4.packet_sniffer/env/
+  664  cd 4.packet_sniffer/
+  665  ls
+  666  cd ..
+  667  git add 4.packet_sniffer/venv/
+  668  git status
+  669  git commit -m "packet sniffer venv files added"
+  670  clear
+  671  git log
+  672  clear
+  673  ifconfig
+  674  clear
+  675  cd 1.mac_changer/
+  676  python mac_changer.py -i eth0 -m 38:f9:d3:45:3f:0d
+  677  clear
+  678  ifconfig eth0
+  679  cd ..
+  680  cd 4.packet_sniffer/
+  681  python packet_sniffer.py 
+  682  exit
+  683  cd 1.mac_changer/
+  684  python mac_changer.py -i eth0 -m 08:00:27:89:03:db
+  685  cd ..
+  686  cd 4.packet_sniffer/
+  687  python packet_sniffer.py 
+  688  clear
+  689  pip install scapy_http
+  690  pip install scapy-http
+  691  clear
+  692  sudo pip install scapy-http
+  693  clear
+  694  sudo python setup.py install
+  695  cd ~
+  696  sudo
+  697  sudo python setup.py install
+  698  clear
+  699  ls
+  700  mkdir scapy_http
+  701  cd scapy_http/
+  702  git clone https://github.com/invernizzi/scapy-http.git
+  703  ifconfig
+  704  ping www.google.com
+  705  ifconfig
+  706  exit
+  707  ls -l
+  708  ls 
+  709  clear
+  710  ls
+  711  cd PycharmProjects/
+  712  ls
+  713  mv mac_changer/ 1.mac_changer
+  714  ls
+  715  mv network_scanner/ 2.network_scanner
+  716  ls
+  717  mv arp_spoof/ 3.arp_spoof
+  718  ls
+  719  clear
+  720  ls -l
+  721  cd 1.mac_changer/
+  722  ls
+  723  python mac_changer.py 
+  724  python mac_changer.py -i eth0 -m 00:11:22:33:44:55
+  725  arp -a
+  726  netdiscover -r 10.0.2.1/24
+  727  clear
+  728  cd ..
+  729  ls -a
+  730  clear
+  731  git status
+  732  git add 1.mac_changer/ 2.network_scanner/ 3.arp_spoof/
+  733  git commit -m "Individual project names updated with numbers."
+  734  clear
+  735  git status
+  736  clear
+  737  cd ..
+  738  ls
+  739  cd /opt/pycharm-community-2019.2.1/bin
+  740  ./pycharm.sh 
+  741  ifconfig
+  742  ping www.google.com
+  743  clear
+  744  cd /opt/pycharm-community-2019.2.1//bin
+  745  ./pycharm.sh 
+  746  ifconfig
+  747  clear
+  748  ping www.google.com
+  749  clear
+  750  cd /opt/pycharm-community-2019.2.1/bin
+  751  ./pycharm.sh 
+  752  clear
+  753  cd ..
+  754  cd 3
+  755  route -n
+  756  clear
+  757  python ar
+  758  10.0.2.10
+  759  10.0.2.1
+  760  cd ..
+  761  cd 4
+  762  python pycharm-community-2019.2.1/
+  763  exit
+  764  cd ~
+  765  ls
+  766  cd PycharmProjects/
+  767  ls
+  768  cd 4.packet_sniffer/
+  769  clear
+  770  pip install scapy_http
+  771  clear
+  772  python packet_sniffer.py 
+  773  scapy
+  774  clear
+  775  scapy -v
+  776  scapy --v
+  777  scapy -version
+  778  scapy --version
+  779  clear
+  780  python packet_sniffer.py 
+  781  pip install scapy_http
+  782  clear
+  783  python packet_sniffer.py 
+  784  clear
+  785  cd ..
+  786  cd 3.arp_spoof/
+  787  route -n
+  788  clear
+  789  python arp_spoof.py 
+  790  exit
+  791  cd ..
+  792  cd 4.packet_sniffer/
+  793  python packet_sniffer.py 
+  794  exit
+  795  cd ..
+  796  ~
+  797  ls
+  798  cd ~
+  799  clear
+  800  cd PycharmProjects/3.arp_spoof/
+  801  history
+  802  clear
+  803  python arp_spoof.py 
+  804  cd ..
+  805  cd 4.packet_sniffer/
+  806  python packet_sniffer.py 
+  807  clear
+  808  python packet_sniffer.py 
+  809  clear
+  810  python packet_sniffer.py 
+  811  clear
+  812  python packet_sniffer.py 
+  813  exit
+  814  cd /opt/pycharm-community-2019.2.1/bin
+  815  ./pycharm.sh 
+  816  cd ~
+  817  cd PycharmProjects/
+  818  git status
+  819  git add A
+  820  git add .'
+  821  git add 1.mac_changer/ 4.packet_sniffer/
+  822  git status
+  823  clear
+  824  git commit -m "packet sniffer file updated 10.09.19"
+  825  clear
+  826  git log
+  827  clear
+  828  git push 
+  829  cd PycharmProjects/
+  830  ls
+  831  cd 4.packet_sniffer/
+  832  clear
+  833  python packet_sniffer.py 
+  834  cleaer
+  835  clear
+  836  python packet_sniffer.py 
+  837  clear
+  838  python packet_sniffer.py 
+  839  clear
+  840  python packet_sniffer.py 
+  841  clear
+  842  python packet_sniffer.py 
+  843  clear
+  844  python packet_sniffer.py 
+  845  clear
+  846  exit
+  847  cd ..
+  848  cd 3.arp_spoof/
+  849  python arp_spoof.py 
+  850  echo 1 > /proc/sys/net/ipv4/ip_forward
+  851  python arp_spoof.py 
+  852  clear
+  853  python arp_spoof.py 
+  854  exit
+  855  cd /opt/pycharm-community-2019.2.1/bin
+  856  ./pycharm.sh 
+  857  cd PycharmProjects/
+  858  cd 4.packet_sniffer/
+  859  python packet_sniffer.py 
+  860  git status
+  861  git commit -a -m "Packet sniffer updated to sniff pass & usernames."
+  862  git status
+  863  git push
+  864  clear
+  865  python packet_sniffer.py 
+  866  clear
+  867  python packet_sniffer.py 
+  868  clear
+  869  python packet_sniffer.py 
+  870  clear
+  871  python packet_sniffer.py 
+  872  clear
+  873  python packet_sniffer.py 
+  874  clear
+  875  python packet_sniffer.py 
+  876  python packet_sniffer.py 
+  877  clear
+  878  python packet_sniffer.py 
+  879  clear
+  880  git status
+  881  git commit -a -m "Packet sniffer refactored and completed."
+  882  git push
+  883  exit
+  884  cd ..
+  885  cd 3
+  886  cd 3.arp_spoof/
+  887  echo 1 > /proc/sys/net/ipv4/ip_forward
+  888  netdiscover -r 10.0.2.1/24
+  889  python arp_spoof.py 
+  890  exit
+  891  cd /opt/pycharm-community-2019.2.1/bin
+  892  ./pycharm.sh 
+  893  exit
+  894  ls
+  895  cd PycharmProjects/
+  896  git status
+  897  ls
+  898  mv net_cut 5.net_cut
+  899  ls
+  900  clear
+  901  pip install netfilterqueue
+  902  clear
+  903  pip install NetfliterQueue
+  904  pip install netfilterqueue
+  905  pip --versionA
+  906  clear
+  907  pip install netfilterqueue
+  908  apt-get install build-essential python-dev libnetfilter-queue-dev
+  909  clear
+  910  pip install netfilterqueue
+  911  cd 5.net_cut/
+  912  python net_cut.py 
+  913  ls
+  914  python net_cut.py 
+  915  cd ..
+  916  ls
+  917  rmdir 5.net_cut/
+  918  rmdir -r 5.net_cut/
+  919  rmdir --
+  920  rmdir --help
+  921  rmdir -p 5.net_cut/
+  922  clear
+  923  cd 5.net_cut/
+  924  python net_cut.py 
+  925  clear
+  926  cd ..
+  927  git status
+  928  mv dns_spoof/ 6.dns_spoof
+  929  ls
+  930  cd 3
+  931  cd 3.arp_spoof/
+  932  iptables -I FORWARD -j NFQUEUE -- queue-num 0
+  933  iptables --help
+  934  clear
+  935  iptables -I FORWARD -j NFQUEUE -- queue-num 0
+  936  iptables -I FORWARD -j NFQUEUE --queue-num 0
+  937  python arp_spoof.py 
+  938  echo 1 > /proc/sys/net/ipv4/ip_forward
+  939  python arp_spoof.py 
+  940  iptables --flush
+  941  clear
+  942  iptables -I OUTPUT -j NFQUEUE --queue-num 0
+  943  iptables -I INPUT -j NFQUEUE --queue-num 0
+  944  iptables --flush
+  945  clear
+  946  cd ~
+  947  cd /opt/pycharm-community-2019.2.1/bin
+  948  ./pycharm.sh 
+  949  cd PycharmProjects/
+  950  cd 3.arp_spoof/
+  951  iptables -I OUTPUT -j NFQUEUE --queue-num 0
+  952  iptables -I INPUT -j NFQUEUE --queue-num 0
+  953  iptables --flush
+  954  exit
+  955  cd /opt/pycharm-community-2019.2.1/bin
+  956  ./pycharm.sh 
+  957  git status
+  958  cd PycharmProjects/
+  959  git status
+  960  git add 5.net_cut/
+  961  git commit -m "Interceptor project initaited and complete."
+  962  git status
+  963  clear
+  964  git add 6.dns_spoof/
+  965  cd 6.dns_spoof/
+  966  python dns_spoof.py 
+  967  iptables --flush
+  968  clear
+  969  service apache2 start
+  970  ifconfig
+  971  clear
+  972  ls
+  973  cd 3.arp_spoof/
+  974  iptables -I OUTPUT -j NFQUEUE --queue-num 0
+  975  iptables -I INPUT -j NFQUEUE --queue-num 0
+  976  ping -c 1 www.bing.com
+  977  clear
+  978  ping -c 1 www.bing.com
+  979  service apache2 start
+  980  iptables --flush
+  981  clear
+  982  iptables -I FORWARD -j NFQUEUE --queue-num 0
+  983  python arp_spoof.py 
+  984  echo 1 > /proc/sys/net/ipv4/ip_forward
+  985  python arp_spoof.py 
+  986  clear
+  987  cd ..
+  988  git status
+  989  git add 6.dns_spoof/dns_spoof.py 
+  990  git commit -m "DNS sppof project completed with an https bing challenge."
+  991  git status
+  992  git push
+  993  exit
+  994  arp -a
+  995  iptables --flush
+  996  clear
+  997  exit
+  998  cd /opt/pycharm-community-2019.2.1/bin
+  999  ./pycharm.sh 
+ 1000  exit
+ 1001  ls
+ 1002  cd PycharmProjects/
+ 1003  ls
+ 1004  git status
+ 1005  clear
+ 1006  ls all
+ 1007  ls
+ 1008  cd 6.dns_spoof/
+ 1009  python dns_spoof.py 
+ 1010  clear
+ 1011  python dns_spoof.py 
+ 1012  exit
+ 1013  ls
+ 1014  cd PycharmProjects/
+ 1015  cd 6.dns_spoof/
+ 1016  history
+ 1017  cd ..
+ 1018  ls
+ 1019  cd Desktop/
+ 1020  history
+ 1021  history > my_khali_cmd_hist.txt
