@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/7.replace_downloads.iml" filepath="$PROJECT_DIR$/.idea/7.replace_downloads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../8.code_injector/.idea/8.code_injector.iml" filepath="$PROJECT_DIR$/../8.code_injector/.idea/8.code_injector.iml" />
     </modules>
   </component>
 </project>
