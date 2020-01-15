@@ -1,1 +1,2 @@
-This repo hosts all my Ethical Hacking python-based programs.
+#Ethical Hacking 
+This repository hosts all my python-based Ethical Hacking scripts.
